@@ -17,6 +17,7 @@ b) Product dataset includes information about the characteristics of the top 372
 c) Engagement data are based on [LearnPlatform](https://learnplatform.com/) Student Chrome Extension.LearnPlatform was launched in 2014, it is an online platform that build and deliver digital learning products for students.The extension collects page load events of over 10K education technology products in our product library, including websites, apps, web apps, software programs, extensions, ebooks, hardwares, and services used in educational institutions.
 
 ### Library
+This project was completed using python.
 Pandas, Numpy, Seaborn and Matplotlib 
 
 ### Observations:
